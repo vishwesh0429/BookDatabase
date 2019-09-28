@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PermanentStorageApp-BSE18AFT</name>
+    <description>
+ A Simple SQLite Implementation
+ </description>
+ <author email="adarshchummun@gmail.com" href="http://www.utm.ac.mu">
+Vishwesh Chummun
+</author>
+<content src="index.html" />
+<access origin="*" />
+<plugin spec="https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free.git#0.8.2"
+source="git"/>
+</widget>
